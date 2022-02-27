@@ -1,0 +1,281 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A catalogue of jilts, cracks, prostitutes, night-walkers, whores, she-friends, kind women, and others of the linnen-lifting tribe who are to be seen every night in the cloysters in Smithfield, from the hours of eight to eleven, during the time of the fair, viz.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78309</idno>
+            <idno type="STC">Wing C1339B</idno>
+            <idno type="STC">ESTC R229521</idno>
+            <idno type="EEBO-CITATION">99895299</idno>
+            <idno type="PROQUEST">99895299</idno>
+            <idno type="VID">152609</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78309)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152609)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2308:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A catalogue of jilts, cracks, prostitutes, night-walkers, whores, she-friends, kind women, and others of the linnen-lifting tribe who are to be seen every night in the cloysters in Smithfield, from the hours of eight to eleven, during the time of the fair, viz.</title>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for R.W. near Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1691.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prostitution --  Humor --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="list_of_prostitutes_in_Smithfield">
+            <pb n="1" facs="tcp:152609:1" rendition="simple:additions"/>
+            <head>A Catalogue of Jilts, Cracks, Proſtitutes, Night-wal<g ref="char:EOLhyphen"/>kers, Whores, She-friends, Kind Women, and o<g ref="char:EOLhyphen"/>thers of the Linnen-lifting Tribe, who are to be ſeen every Night in the Cloyſters in <hi>Smithfield,</hi> from the hours of Eight to Eleven, during the time of the FAIR, <hi>viz.</hi>
+            </head>
+            <opener>
+               <dateline>
+                  <date>
+                     <add>28. Aug. 1691</add>
+                  </date>
+               </dateline>
+            </opener>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">Price,</cell>
+                     <cell role="label">l.</cell>
+                     <cell role="label">s.</cell>
+                     <cell role="label">d.</cell>
+                  </row>
+                  <row>
+                     <cell>1. MRS. <hi>Mary H—n,</hi> a tall, graceful, comely Woman, indebted for two thirds of her beauty to Waſhes and the Patch-box; ſhe mightily frequents the Raffling-ſhops, very ſhy of allowing her Favours; but the preſent of Silver Furniture for her Chamber may mollifie her, which will coſt you but</cell>
+                     <cell>20</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>2. Mrs. <hi>Eliz. H—n,</hi> her Siſter, as well by Iniquity as by birth; the very Ape of Female Quality, both as to her Dreſs and Carriage; ſhe is very in<g ref="char:EOLhyphen"/>different as to matter of money, but a Supper of two Guineas may tempt her to be kind.</cell>
+                     <cell>02</cell>
+                     <cell>03</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>3. Mrs. <hi>Eliz. B—w,</hi> a very fine Woman, who has been a Dealer in Cullies ever ſince ſhe was fifteen; modeſt and pleaſant enough, till after the third bottle, but then <hi>Meſſalina</hi> her ſelf was not half ſo impudent; ſhe has ſe<g ref="char:EOLhyphen"/>veral prizes for her Ware, but her uſual price is</cell>
+                     <cell>01</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>4. Mrs. <hi>Di— P—r,</hi> a very fair Woman, and loves none but thoſe of her own Complexion, has a ſort of Sparks who buz about her, like Flies about a Honey-pot; whoever engages her to a Glaſs or Wine muſt reckon himſelf fortunate if he comes off for</cell>
+                     <cell>03</cell>
+                     <cell>04</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>5. Mrs. <hi>Dorothy R—t,</hi> a tall comely Woman, a little red-faced, by drinking too much <hi>Uſquebagh</hi> when ſhe lived near <hi>Eſſex-Street;</hi> ſhe would be thought, by her haughtineſs, to be a Woman of condition, but thoſe who know her better, are ſenſible ſhe will allow a Man her company for a bottle.</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>04</cell>
+                  </row>
+                  <row>
+                     <cell>6. Mrs. <hi>Sarah F—r,</hi> a great two-handed Strapper, having no Charms either in Perſon or Humour; yet will follow her old Trade, though ſhe is kickt and bumpt about almoſt every Night; if ſhe ſnaps a Cully his Pocket muſt pay</cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>7. <hi>Posture Moll,</hi> a plump brown Woman, but ſo very well known, (that as <hi>Nicholas Culpepper</hi> ſays of ſome Herbs and Plants,) ſhe needs no deſcription; the uſual price of her Raree-ſhow is</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>8. Mrs. <hi>Y—g,</hi> her Diſciple or Deputy, who ſtudied the Mathematicks under her, and has improved finely; her price is the ſame with her Miſtreſſes; but ſhe will pick your Pocket if ſhe can, and then it may coſt more than</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>9. Mrs. <hi>Mary L—d,</hi> a conſtant frequenter of the eighteen penny Gallery in the Play-houſe; plump and jolly, if her impudence don't daſh you out of countenance; at firſt meeting her price is 5 <hi>s.</hi> but you may perſwade her to abate a ſhilling.</cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>10. Mrs. <hi>Martha K—g,</hi> a little fat Woman, known laſt Winter by her Velvet Gown and Petticoat, which was <gap reason="illegible" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <hi>Tyburn</hi> Degacy; ſhe has a very particular way of inflaming a Reckoning, ſo that you who thought to have come off for your 2 ſhillings may ſpend before yu part</cell>
+                     <cell>01</cell>
+                     <cell>01</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <pb n="2" facs="tcp:152609:2"/> 11. Mrs. <hi>Abigail T—y,</hi> a tall ſlender Woman, a great frequenter of <hi>Covent Garden</hi> Prayers, who makes her Devotion a Bawd to her Luſt, her price is</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>12. Mrs. <hi>Suſan C—n,</hi> the erranteſt ſhe Hypocrite living; all bawdry with her is but Natural Philoſophy; at her firſt coming into Company ſhe ap<g ref="char:EOLhyphen"/>pears a Saint, but produce the Ready, and ſhe tacks about; her uſual rate is</cell>
+                     <cell>00</cell>
+                     <cell>07</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>13. Mrs. <hi>Bridget W—ms,</hi> a pretty little black Woman, has not been de<g ref="char:EOLhyphen"/>bauch'd above two years, not yet a Miſtreſs of her profeſſion; the uſual cuſtom being to give her half a Crown, and then to Bully her of the Money again</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>14. Mrs. <hi>Dorothy E—ds,</hi> a very fair Woman, who kept a Coffce-houſe near <hi>Charing</hi>-Croſs, has a particular fancy for Soldiers, from the embroidered Officer to the thredbare Red-coat Centinel; her prizes are various, and there<g ref="char:EOLhyphen"/>fore 'tis left to the kind Cully's diſcretion.</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>15. Mrs. <hi>Katharine D—r,</hi> a Woman that loves a Vizor-mask to that de<g ref="char:EOLhyphen"/>gree of fondneſs, that ſhe lies in one every Nig<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t; ſhe may paſs for a Woman of tolerable underſtanding while ſhe is ſo obſcured; but the Diſguiſe taken off, inſtead of inviting, ſhe frightens you from an Intreague.</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>16. Mrs. <hi>Sarah VV—ks,</hi> a tall brown Woman, newly come out of a Flux, ſhe dreſſes as fine as Gauſe and painted Callico can make her, if you mount the Guard, the price, with Saddle and Furniture, is</cell>
+                     <cell>00</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>17. Mrs. <hi>Peggy L—ly,</hi> a ſly infinuating Crack, who in company always talks of her Husband at Sea; her whole Cargo, with Topſails and Rigging, are hardly worth 10 ſhillings; but beware of her lower tire, for ſeveral have to their ſorrow found her a Fire-ſhip.</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>18. Mrs. <hi>M—ws,</hi> formerly a Plyer in <hi>Salisbury</hi>-Court, known by her Teeth jutting out before; her good rigging makes her paſs for a firſt-rate Crack; her demands are commonly a Guinea, but thoſe who have dealt in the Commodity know ſhe will take</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>19. Mrs. <hi>Sarah H—th,</hi> a very black Woman, who has ſeveral times attempted to turn honeſt, but her itching fleſh won't let her, and ſo is forced to continue a Crack in her own defence; her demand is</cell>
+                     <cell>00</cell>
+                     <cell>02</cell>
+                     <cell>06</cell>
+                  </row>
+                  <row>
+                     <cell>20. Mrs. <hi>A—ld,</hi> her <hi>quondam</hi> Companion, with a Noſe like a <hi>Bollonia</hi> Lapdog, ſhe has been lately in the Powdering-tub of Affliction; a good eaſie Girl, who ſcorns to ask for money, but will not take it unkindly if you pre<g ref="char:EOLhyphen"/>ſent her with a Crown for her Company.</cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>21. Mrs. <hi>VV—by,</hi> formerly Miſs to Col. <hi>S—field</hi> in <hi>Irelend,</hi> but reduced to that neceſſity, that ſhe who formerly refuſed five Guineas for the allowance of a private Favour, will now take up with any ordinary Fellow for —</cell>
+                     <cell>00</cell>
+                     <cell>01</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>22. Mrs. <hi>Eliz.</hi> (alias <hi>Betty</hi>) <hi>S—ds,</hi> formerly a Retailer of Oranges at the Playhouſe; the very Quinteſſence of Leudneſs, who brags ſhehas been tilted at by as many Lances, as there are Men in the Confederate Army: her price is 5 s. and a Clap ſhe gives into the bargain.</cell>
+                     <cell>00</cell>
+                     <cell>05</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Cum multis aliis quae nunc preſcribere longum eſt.</p>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Licenſed according to Order.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>R. W.</hi> near <hi>Smithfield,</hi> 1691.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
